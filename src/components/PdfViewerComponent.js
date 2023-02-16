@@ -16,7 +16,7 @@ export default function PdfViewerComponent({document}) {
         document: document,
         // Use the public directory URL as a base URL. PSPDFKit will download its library assets from here.
         baseUrl: `${window.location.protocol}//${window.location.host}/${process.env.PUBLIC_URL}/`,
-        licenseKey: "bEQpse3IYlLiE9KzDMFwN4JzSuBo1pUQOsofZLgmQoFglhEwNjicbEM8hW7I_gkr0_w09TfHsykm2bon76qeNgSLsbeC0hnQa24nxsyzQJKXrF4qeA1-mQTgQDCPrY4CudBDecbshdXvyx8auo14hn7iogNz--6Y1ZK0pNLim12vVpsx3QYmc3GTuRjN7Crz1Mn2dZVn712wOGbuuSW6NMHb1QBD6idpoGKhjcOZMdXXS2P7n57_koiVxQZbnGmlWrYW5Kb86BajbDRkNHKAGzbRPl-3ofok4pzOkcP9GwyzqY1SQIqIGgeiwt98XxOi9Y5FiQVakmRo9lGMp4XssWXWTwIMFJeyNTRxH9_hWw7DFfTIf9CTOzC9yKMkPotBKTDu4zI0kGVG2nURnLs0VjRyzez9K73-HlWKWvi3efR7Xdt6YgXAkQgNYujkUQPNeMb-nRXHFhz6kgkoXXftCcZPBI8TNFhQSNGzRjJkAu7UKxZ7NnMp0oNKsnvp_wML4pM-FOyQg8207Ht5LqHNOUS2ZA9-V1Trggpfo-5TdyJS9qq72X3FwDR3WavDEo43ZNFg_JlnNFsXrmwXkFWjVBwKWTQvlhPs09D24OhUkqL-atBVKFcYtiOJM0Y3i9kF"
+        licenseKey: "XJrs7vjFNGxYLf1hHEZPET-91IzwphAjJF843PEQERXygJMsiLeWN1L45iKhq8UT4JGZ1w7cmQC385kBA3bCw2DSErja3Z_u9ikBH-MD0IcSt0BO3JS3qh00I68J6xpYFxDQv-yxyszvk3-qyDxWQggru0txSvcidYQH2-4WX284n9nvZ70JT4O0SaPHVV-VB5S4VGEhv3HjR6tLv-MN73nwRer0nOFsBNX6aoMyfSnenLdDajmat3tIES2jPEc2SdCtsB_Nja4cLa1qOKOfWgGkeZ2xogmiOn8j7LPLARhF_Awg_TnaBFentsCWkNyMBLHddw6UDV6fve1Nc_MVck7kT7YDGzQt16mwbJ9qW6OwaRl6gF8qqauEnlyVsk8bka95YX7Fj7q-vj5zWV6tzL5lRc4r2qw9-pQxj94fYI_8GVnXucMkwYuJ4dOj_y2JRxFP58xG3zHZ_-GQ2UlkIwpVcpSBz8pk9MABDqVe21CPw8Mb44rM5X1xRmSxTjKV25AkgCOsq1ros6i9yRZSmZ2IYs7sRAVoL0QC5DDiATC62Tjg_HO2w_YalybO2kMAdCugxXt7PQkRKIzuV-Ffi71lYwFxhHc2FCGq2Vjf0QUycRln8Q_v7ijxsBeNs8W2"
       });
     })();
     return () => {
