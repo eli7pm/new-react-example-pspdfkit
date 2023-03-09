@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/new-react-example-pspdfkit/static/css/main.841236a0.css",
-    "main.js": "/new-react-example-pspdfkit/static/js/main.c3ca91cd.js",
+    "main.js": "/new-react-example-pspdfkit/static/js/main.e3d6bfdf.js",
     "static/js/787.4bd2ff4e.chunk.js": "/new-react-example-pspdfkit/static/js/787.4bd2ff4e.chunk.js",
     "index.html": "/new-react-example-pspdfkit/index.html",
     "main.841236a0.css.map": "/new-react-example-pspdfkit/static/css/main.841236a0.css.map",
-    "main.c3ca91cd.js.map": "/new-react-example-pspdfkit/static/js/main.c3ca91cd.js.map",
+    "main.e3d6bfdf.js.map": "/new-react-example-pspdfkit/static/js/main.e3d6bfdf.js.map",
     "787.4bd2ff4e.chunk.js.map": "/new-react-example-pspdfkit/static/js/787.4bd2ff4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.841236a0.css",
-    "static/js/main.c3ca91cd.js"
+    "static/js/main.e3d6bfdf.js"
   ]
 }
