@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/new-react-example-pspdfkit/static/css/main.841236a0.css",
-    "main.js": "/new-react-example-pspdfkit/static/js/main.367f1096.js",
+    "main.js": "/new-react-example-pspdfkit/static/js/main.99173564.js",
+    "static/js/866.76cfba8c.chunk.js": "/new-react-example-pspdfkit/static/js/866.76cfba8c.chunk.js",
     "static/js/787.4bd2ff4e.chunk.js": "/new-react-example-pspdfkit/static/js/787.4bd2ff4e.chunk.js",
     "index.html": "/new-react-example-pspdfkit/index.html",
     "main.841236a0.css.map": "/new-react-example-pspdfkit/static/css/main.841236a0.css.map",
-    "main.367f1096.js.map": "/new-react-example-pspdfkit/static/js/main.367f1096.js.map",
+    "main.99173564.js.map": "/new-react-example-pspdfkit/static/js/main.99173564.js.map",
+    "866.76cfba8c.chunk.js.map": "/new-react-example-pspdfkit/static/js/866.76cfba8c.chunk.js.map",
     "787.4bd2ff4e.chunk.js.map": "/new-react-example-pspdfkit/static/js/787.4bd2ff4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.841236a0.css",
-    "static/js/main.367f1096.js"
+    "static/js/main.99173564.js"
   ]
 }
